@@ -38,13 +38,6 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/Denventa/Denventa/blob/main/Hello World/status_me_status_90e259db678545f49a41faf12e095d58.jpg" width="640" title="Menu" alt="Menu">
 
-<a href="https://github.com/Shishigami-X/Sakera"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Shishigami-X&repo=Sakera&theme=chartreuse-dark"></a>
-<a href="https://github.com/Shishigami-X/Facebook-Tools"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Shishigami-X&repo=Facebook-Tools&theme=chartreuse-dark"></a>
-<a href="https://github.com/Shishigami-X/DenvFerl"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Shishigami-x&repo=DenvFerl&theme=chartreuse-dark"></a>
-<a href="https://github.com/Shishigami-X/Facebook"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Shishigami-X&repo=Facebook&theme=chartreuse-dark"></a>
-<a href="https://github.com/Shishigami-X/DARK-FB"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Shishigami-X&repo=DARK-FB&theme=chartreuse-dark"></a>
-<a href="https://github.com/Shishigami-X/encrypt_py3"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Shishigami-X&repo=encrypt_py3&theme=chartreuse-dark"></a>
-
 <h1 align="center">
-  <b>Hello Programmers!<b> <a href="https://www.facebook.com/AfriliyanFerly.Shishigami.X" target="blank">DenvFerl</a> Was Here
+  <b>Hello Programmers!<b> <a href="https://www.facebook.com/AfriliyanFerly.Shishigami.X" target="blank">Denventa</a> Was Here
 </h1>
