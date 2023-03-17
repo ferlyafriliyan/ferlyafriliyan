@@ -10,11 +10,18 @@ Public MyClass {
     }
 } 
 ```
+
+<h1 align="center"> About myself :) </h1>
+<p align="center">
+•●•
+    
 ```ruby
- print('Kalo Mau Recode.Recode Aja
-.Follow And Star Tapi Yagesya')
-        }
-    } 
+print('     {    About myself
+                              }   ') 
+print('                                  {
+                       my name
+    def my name : Denevnta Afriliyan Ferly Khurayra Shishigami X
+                                                                        }
 ```
 <!--
 **Shishigami-X/Shishigami-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
