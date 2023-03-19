@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-```ruby
-print('Hello World')
-```
 ```php
 Public MyClass {
     Public Static Void Main(String [] Args) {
@@ -22,6 +19,16 @@ print('                                  {
                        my name
     def my name : Denevnta Afriliyan Ferly Khurayra Shishigami X
                                                                         }
+      Xayonara           = 
+    
+       print(' [str(Xayonara)]
+    
+def print('[str(Xayonara)]   = 
+    
+             def print('Xayonara = {  
+    
+                    Unlimited Army        
+                                                     }
 ```
 <!--
 **Shishigami-X/Shishigami-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
