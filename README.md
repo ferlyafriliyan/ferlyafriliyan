@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h1 align="center"> About myself :) </h1>
+<p align="center">
+•●•
+    
 ```php
 Public MyClass {
     Public Static Void Main(String [] Args) {
@@ -7,10 +11,6 @@ Public MyClass {
     }
 } 
 ```
-
-<h1 align="center"> About myself :) </h1>
-<p align="center">
-•●•
     
 ```ruby
 print('     {    About myself
