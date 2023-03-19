@@ -17,7 +17,7 @@ print('     {    About myself
                               }   ') 
 print('                                  {
                        my name
-    def my name : Denevnta Afriliyan Ferly Khurayra Shishigami X
+def print('[str(my name)] : Denevnta Afriliyan Ferly Khurayra Shishigami X')
                                                                         }
       Xayonara           = 
     
