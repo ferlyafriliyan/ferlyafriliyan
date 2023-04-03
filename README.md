@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <b>Hello Programmers!<b> <a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY" target="blank">Denventa</a> Was Here
 </h1>
 
-      <!--![](https://github.com/Aldi098/Aldi098/blob/main/20220122_162251.jpg)-->
+      <!--![](https://github.com/Aldi098/Aldi098/blob/main/Hello%20World/status_me_status_90e259db678545f49a41faf12e095d58.jpg)-->
 <p align="center"> <h1 align="center"> Hi, I am Denventa Ariliyan Ferly 👋</h1> </p>
 <p align="center">
 <a href="https://github.com/Denventa/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
