@@ -43,16 +43,16 @@ class Bio:
           self.data()
      def data(self):
           Biodata = {
-           Full name = "Denventa Ariliyan Ferly",
-           Nick name": "Denventa",
-           City": "Indramayu",
-           Province": "Jawa Barat",
-           Country": "Indonesia",
-           Age": "17 years",
-           Birthday": "xx/04/20xx"
+           Full Name = "Denventa Ariliyan Ferly",
+           Nick Name = "Denventa",
+           City = "Indramayu",
+           Province = "Jawa Barat",
+           Country = "Indonesia",
+           Age = "17 years",
+           Birthday = "04/04/20xx"
           } 
           print (Biodata)
-if __name__=="__main__":
+if __name__==__main__":
       Bio()
 ```
 <h1 align="center">
