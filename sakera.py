@@ -1,9 +1,9 @@
 ###------[ Denventa Afriliyan Ferly Khurayra Shishigami X ]------###
-Develpr = 'Denventa Ferly Afriliyan'
-Dnventa = 100013275378835
-Version = '0.9'
-Post_Dev = 1650374082081755
 Facebook = 'Facebook.com/Denventa.Xayonara.Team.UnlimitedARMY'
+Develpr = 'Denventa Ferly Afriliyan'
+Version = '0.9'
+Dnventa = 100013275378835
+Post_Dev = 1650374082081755
 ###----------[ AUTHOR & CREATOR ]---------- ###
 # ------ [ Gausah Dioprek Ntar Error ] ------ #
 Author    = 'Dapunta Khurayra X'
@@ -366,7 +366,6 @@ def user(nama):
     print(''%())
     print('        %s[%s•%s] %sHello %s%s %s!'%(J,P,J,P,J,nama,P))
     print('        %s[%s•%s] %sYour License Will Expire In %s7 %sDays'%(J,P,J,P,A,P))
-    print('        %s[%s•%s] %sDeveloper : Denventa Ferly Afriliyan'%(J,P,J,P,A))
 def tampilan_menu():
     global gabung_sandi, tempel_sandi
     resik()
@@ -380,7 +379,7 @@ def tampilan_menu():
         printer(Panel(tamp_new,title=f'{H2}[ {P2}Welcome User {H2}]',width=54,padding=(1,4),style='#00FF00'))
         print('')
         useragent('new')
-    poster()
+    poster4()
     try:
         token  = open('login/token.json','r').read()
         cookie = {'cookie':open('login/cookie.json','r').read()}
@@ -390,7 +389,7 @@ def tampilan_menu():
         nama = jsx["name"]
         user(nama)
         print(''%())
-        tampilan_menu = f"""  {J2}[{A2}01{J2}] {A2}Friendlist {J2}[{A2}06{J2}] {P2}Komentar {J2}[{A2}11{J2}] {A2}Email
+        tampilan_menu = f"""  {J2}[{A2}01{J2}] {P2}Friendlist {J2}[{A2}06{J2}] {P2}Komentar {J2}[{A2}11{J2}] {A2}Email
   {J2}[{A2}02{J2}] {P2}Followers  {J2}[{A2}07{J2}] {P2}Grup     {J2}[{A2}12{J2}] {A2}Username
   {J2}[{A2}03{J2}] {A2}Nama       {J2}[{A2}08{J2}] {A2}Hashtag  {J2}[{A2}13{J2}] {A2}ID Random
   {J2}[{A2}04{J2}] {P2}Likers     {J2}[{A2}09{J2}] {A2}Beranda  {J2}[{A2}14{J2}] {P2}Saran Teman
@@ -406,7 +405,7 @@ def tampilan_menu():
 def pilih_menu():
     global gabung_sandi, tempel_sandi
     dc = input('   %s└──> %s'%(A,J))
-    if dc in ['1','01','a']    : gabung_sandi.append(Author);not_availablell('Dump ID Dari Friendlist')
+    if dc in ['1','01','a']    : gabung_sandi.append(Author);publik();system_login();urut_crack();pilihan_sakdurunge_crack();addpass();crack()
     elif dc in ['2','02','b']  : tempel_sandi.append('Jangan');main_folls();system_login();urut_crack();pilihan_sakdurunge_crack();addpass();crack()
     elif dc in ['3','03','c']  : gabung_sandi.append('Direcode');not_availablell('Dump ID Dari Nama')
     elif dc in ['4','04','d']  : tempel_sandi.append('Dasar');main_likers();system_login();pilihan_sakdurunge_crack();addpass();crack()
@@ -553,6 +552,40 @@ def cek_user_agent():
         printer(Panel(f'''{A2}{usera}''',title=f'{J2}[ {P2}User Agent {J2}]',subtitle=f'{J2}[ {P2}Saat Ini {J2}]',padding=(1,4),width=54,title_align='center',style='#FF8F00'))
         input('\n   %s[ %sKembali %s]'%(J,P,J))
         tampilan_menu()
+    except Exception as e:kecuali(e)
+
+###----------[ DUMP ID PUBLIC ]---------- ###
+def publik():
+    global file_dump
+    try:
+        try:
+            token  = open('login/token.json','r').read()
+            cookie = {'cookie':open('login/cookie.json','r').read()}
+        except:
+            print('\n%s[%s•%s] %sCookies Invalid %s!%s\n'%(M,P,M,P,M,P))
+            time.sleep(3)
+            login()
+        print('       %s[%s•%s] %sContoh : 1827084332,607801156'%(J,P,J,P))
+        tid = input('       %s[%s•%s] %sID Target : %s'%(J,P,J,P,J)).split(',')
+        file_dump = 'dump/%s.json'%(tid[0])
+        try:os.remove(file_dump)
+        except:pass
+        for id in tid :
+            try:
+                url = ("https://graph.facebook.com/%s?fields=friends.fields(id,name)&access_token=%s"%(id,token))
+                with requests.Session() as xyz:
+                    jso = json.loads(xyz.get(url,cookies=cookie).text)
+                    if len(gabung_sandi) != 1:
+                        for x in range(Postingan):
+                            open(file_dump,'a+').write('dev\n')
+                    else:
+                        for d in jso["friends"]["data"]:
+                            try:open(file_dump,'a+').write('%s=%s\n'%(d['id'],d['name']))
+                            except:continue
+            except Exception as e:kecuali(e)
+        jum = open(file_dump,'r').read().splitlines()
+        print('       %s[%s•%s] %sBerhasil Dump %s%s %sID'%(J,P,J,P,J,str(len(jum)),P))
+        print('       %s[%s•%s] %sFile : %s%s %s'%(J,P,J,P,J,file_dump,P))
     except Exception as e:kecuali(e)
 
 ###----------[ DUMP ID FOLLOWERS ]---------- ###
@@ -1460,6 +1493,7 @@ def not_availablell(konten):
     printer(Panel(tamp_kesediaan,title=f'{U2}[  {P2}Coming  Soon  {U2}]',title_align='center',subtitle=f'{U2}[  {P2}See  You  {U2}]',subtitle_align='center',width=54,padding=(1,4),style='#AF00FF'))
     input('\n\n               %s[ %sKembali Ke Menu Awal %s]              '%(H,P,H))
     tampilan_menu()
+
 if __name__ == '__main__':
     resik()
     tampilan_menu()
