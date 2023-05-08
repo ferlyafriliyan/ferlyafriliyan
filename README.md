@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--
-**Shishigami-X/Shishigami-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dvanmeploph/Dvanmeploph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,22 +11,22 @@ Here are some ideas to get you started:
 •●•
 </p>
 
-<img src="https://github.com/Denventa/Denventa/blob/main/Hello World/status_me_status_90e259db678545f49a41faf12e095d58.jpg" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/Dvanmeploph/Dvanmeploph/blob/main/Hello World/status_me_status_90e259db678545f49a41faf12e095d58.jpg" width="640" title="Menu" alt="Menu">
 
-      <!--![](https://github.com/Aldi098/Aldi098/blob/main/Hello%20World/status_me_status_90e259db678545f49a41faf12e095d58.jpg)-->
+      <!--![](https://github.com/Dvanmeploph/Dvanmeploph/blob/main/Hello%20World/status_me_status_90e259db678545f49a41faf12e095d58.jpg)-->
 <p align="center"> <h1 align="center"> Hi, I am Denventa Ariliyan Ferly 👋</h1> </p>
 <p align="center">
 <a href="https://github.com/Denventa/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Denventa&label=Profile%20views&color=0e75b6&style=flat" alt="Denventa"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dvanmeploph&label=Profile%20views&color=0e75b6&style=flat" alt="Dvanmeploph"/></p>
 
 
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=Denventa&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denventa&theme=dark&hide_border=true&layout=compact"></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=Dvanmeploph&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvanmeploph&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
 
@@ -44,8 +44,8 @@ class Bio:
           self.data()
      def data(self):
           Biodata = {
-           Full Name = "Denventa Ariliyan Ferly",
-           Nick Name = "Denventa",
+           Full Name = "Dvanmeploph Ariliyan Ferly",
+           Nick Name = "Dvanmeploph",
            City = "Indramayu",
            Province = "Jawa Barat",
            Country = "Indonesia",
@@ -57,5 +57,5 @@ if __name__==__main__":
       Bio()
 ```
 <h1 align="center">
-  <b>Hello Programmers!<b> <a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY" target="blank">Denventa</a> Was Here
+  <b>Hello Programmers!<b> <a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY" target="blank">Dvanmeploph</a> Was Here
 </h1>
