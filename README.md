@@ -29,6 +29,15 @@ Here are some ideas to get you started:
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvanmeploph&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
+<p align="center">
+<a href="https://github.com/Dvanmeploph/sakera"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=sakera&theme=chartreuse-dark"></a>
+<a href="https://github.com/Dvanmeploph/elite"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=elite&theme=chartreuse-dark"></a>
+<a href="https://github.com/Dvanmeploph/DARK-FB"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=DARK-FB&theme=chartreuse-dark"></a>
+<a href="https://github.com/Dvanmeploph/Dvanmeploph-C"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=Dvanmeploph-C&theme=chartreuse-dark"></a>
+<a href="https://github.com/Dvanmeploph/facebook-tools"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=facebook-tools&theme=chartreuse-dark"></a>
+<a href="https://github.com/Dvanmeploph/List-User-Agent"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=List-User-Agent&theme=chartreuse-dark"></a>
+</p>
+
 
 - Languages: &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007ACC)
