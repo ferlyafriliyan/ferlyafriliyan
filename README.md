@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Dvanmeploph/DARK-FB"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=DARK-FB&theme=chartreuse-dark"></a>
 <a href="https://github.com/Dvanmeploph/Dvanmeploph-C"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=Dvanmeploph-C&theme=chartreuse-dark"></a>
 <a href="https://github.com/Dvanmeploph/facebook-tools"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=facebook-tools&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dvanmeploph/List-User-Agent"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=List-User-Agent&theme=chartreuse-dark"></a>
-</p>
+<a href="https://github.com/Dvanmeploph/Get-Info"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=Get-Info&theme=chartreuse-dark"></a>
 
 
 - Languages: &nbsp;
