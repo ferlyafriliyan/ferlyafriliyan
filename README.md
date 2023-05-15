@@ -20,15 +20,16 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dvanmeploph&label=Profile%20views&color=0e75b6&style=flat" alt="Dvanmeploph"/></p>
+<h1 align="center">
+  <b>Hello Programmers!<b> <a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY" target="blank">Dvanmeploph</a> Was Here
+</h1>
 
-
-**⚙️ &nbsp;GitHub Analytics**
-<table style="width:100%">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=Dvanmeploph&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvanmeploph&theme=dark&hide_border=true&layout=compact"></td>
-  </tr>
-</table>
+<p align="center">
+  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Dvanmeploph&show_icons=true&theme=chartreuse-dark&locale=id">
+</p>
+<p align="center">
+  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvanmeploph&layout=compact&theme=chartreuse-dark">
+</p>
 <p align="center">
 <a href="https://github.com/Dvanmeploph/sakera"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=sakera&theme=chartreuse-dark"></a>
 <a href="https://github.com/Dvanmeploph/elite"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=elite&theme=chartreuse-dark"></a>
@@ -65,6 +66,3 @@ class Bio:
 if __name__==__main__":
       Bio()
 ```
-<h1 align="center">
-  <b>Hello Programmers!<b> <a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY" target="blank">Dvanmeploph</a> Was Here
-</h1>
