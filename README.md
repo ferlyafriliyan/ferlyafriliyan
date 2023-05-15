@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Dapunta&show_icons=true&theme=chartreuse-dark&locale=id">
+  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Dvanmeplop&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
 <p align="center">
-  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapunta&layout=compact&theme=chartreuse-dark">
+  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvanmeplop&layout=compact&theme=chartreuse-dark">
 </p>
 <p align="center">
 <a href="https://github.com/Dvanmeploph/sakera"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dvanmeploph&repo=sakera&theme=chartreuse-dark"></a>
