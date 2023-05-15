@@ -53,7 +53,7 @@ class Bio:
           self.data()
      def data(self):
           Biodata = {
-           Full Name = " - [ Dvanmeploph - ( Ferly Ariliyan ) ] - ",
+           Full Name = " [ Dvanmeploph - ( Ferly Afriliyan ) ] - ",
            Nick Name = "Dvanmeploph",
            City = "Indramayu",
            Province = "Jawa Barat",
