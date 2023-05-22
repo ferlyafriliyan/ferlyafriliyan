@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Itsmeafriliyan/sakera"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=sakera&theme=chartreuse-dark"></a>
 <a href="https://github.com/Itsmeafriliyan/elite"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=elite&theme=chartreuse-dark"></a>
 <a href="https://github.com/Itsmeafriliyan/DARK-FB"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=DARK-FB&theme=chartreuse-dark"></a>
-<a href="https://github.com/Itsmeafriliyan/Dvanmeploph-C"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=Dvanmeploph-C&theme=chartreuse-dark"></a>
+<a href="https://github.com/Itsmeafriliyan/proxy-list"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=proxy-list&theme=chartreuse-dark"></a>
 <a href="https://github.com/Itsmeafriliyan/facebook-tools"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=facebook-tools&theme=chartreuse-dark"></a>
 <a href="https://github.com/Itsmeafriliyan/Get-Info"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=Get-Info&theme=chartreuse-dark"></a>
 
