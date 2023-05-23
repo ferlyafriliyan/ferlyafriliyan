@@ -19,34 +19,39 @@ Here are some ideas to get you started:
 <a href="https://github.com/Denventa/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Itsmeafriliyan&label=Profile%20views&color=0e75b6&style=flat" alt="Dvanmeploph"/></p>
 <h1 align="center">
   <b>Hello Programmers!<b> <a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY" target="blank">Dvanmeploph</a> Was Here
 </h1>
 
 <a href="https://www.rootsec.xyz/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=tahaluindo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaluindo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-</p>        
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahaluindo&label=VIEWS&style=flat-square&color=blue" />
+</p>
+<p align='center'>
+   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
+<p align='center'>
       
-<p align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Itsmeafriliyan&show_icons=true&theme=chartreuse-dark&locale=id">
-</p>
-<p align="center">
-  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmeafriliyan&layout=compact&theme=chartreuse-dark">
-</p>
-<p align="center">
-<a href="https://github.com/Itsmeafriliyan/sakera"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=sakera&theme=chartreuse-dark"></a>
-<a href="https://github.com/Itsmeafriliyan/SCF"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=SCF&theme=chartreuse-dark"></a>
-<a href="https://github.com/Itsmeafriliyan/DARK-FB"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=DARK-FB&theme=chartreuse-dark"></a>
-<a href="https://github.com/Itsmeafriliyan/Dvanmeploph-C"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=Dvanmeploph-C&theme=chartreuse-dark"></a>
-<a href="https://github.com/Itsmeafriliyan/facebook-tools"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=facebook-tools&theme=chartreuse-dark"></a>
-<a href="https://github.com/Itsmeafriliyan/Get-Info"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Itsmeafriliyan&repo=Get-Info&theme=chartreuse-dark"></a>
-
-
 - Languages: &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007ACC)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=007ACC)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php&logoColor=1572B6)
+  ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php&logoColor=1572B6)      
+</p>      
+:page_with_curl: I'm currently learning:
+- Python
+- PHP
+- Golang
+- HTML
+- JAVA
+- C++
+- Javascript
+</p>      
+    
+<!--START_SECTION:waka-->
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=tahaluindo&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaluindo&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaluindo">
+</p>
   
   **💻 &nbsp;My Biodata**
   
