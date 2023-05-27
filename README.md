@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--
-**Dvanmeploph/Dvanmeploph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ferlyafrliyn/ferlyafrliyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 •●•
 </p>
 
-<img src="https://github.com/Itsmeafriliyan/Itsmeafriliyan/blob/main/Hello World/status_me_status_90e259db678545f49a41faf12e095d58.jpg" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/ferlyafrliyn/ferlyafrliyn/blob/main/Hello World/status_me_status_90e259db678545f49a41faf12e095d58.jpg" width="640" title="Menu" alt="Menu">
 
       <!--![](https://github.com/Itsmeafriliyan/Itsmeafriliyan/blob/main/Hello%20World/status_me_status_90e259db678545f49a41faf12e095d58.jpg)-->
 <p align="center"> <h1 align="center"> Hi, I am [ Dvanmeploph - ( Ferly Afriliyan ) ] - 👋</h1> </p>
 <p align="center">
-<a href="https://github.com/Itsmeafriliyan/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
+<a href="https://github.com/ferlyafrliyn/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
 </p>
 
 <h1 align="center">
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </p>      
     
 <!--START_SECTION:waka-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=tahaluindo&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmeafriliyan&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=tahaluindo&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaluindo&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaluindo">
 </p>
