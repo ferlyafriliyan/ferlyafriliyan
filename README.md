@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--
-**ferlyafrliyn/ferlyafrliyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Itsmeafriliyan/Itsmeafriliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 •●•
 </p>
 
-<img src="https://github.com/ferlyafrliyn/ferlyafrliyn/blob/main/Hello World/status_me_status_90e259db678545f49a41faf12e095d58.jpg" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/Itsmeafriliyan/Itsmeafriliyan/blob/main/Hello World/status_me_status_90e259db678545f49a41faf12e095d58.jpg" width="640" title="Menu" alt="Menu">
 
       <!--![](https://github.com/Itsmeafriliyan/Itsmeafriliyan/blob/main/Hello%20World/status_me_status_90e259db678545f49a41faf12e095d58.jpg)-->
 <p align="center"> <h1 align="center"> Hi, I am [ Dvanmeploph - ( Ferly Afriliyan ) ] - 👋</h1> </p>
 <p align="center">
-<a href="https://github.com/ferlyafrliyn/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
+<a href="https://github.com/Itsmeafriliyan/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
 </p>
 
 <h1 align="center">
