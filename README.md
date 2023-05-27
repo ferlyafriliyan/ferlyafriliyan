@@ -24,11 +24,8 @@ Here are some ideas to get you started:
   <b>Hello Programmers!<b> <a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY" target="blank">Dvanmeploph</a> Was Here
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tahaluindo&label=Profil Views&style=flat-square&color=blue"       />
-      
 <p align="center">      
-  <img src="https://komarev.com/ghpvc/?username=Dumai-991&label=Profil Views_ll&style=flat-square&color=blue"     />
+  <img src="https://komarev.com/ghpvc/?username=Dumai-991&label=Profil Views&style=flat-square&color=blue"     />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dumai-200&label=Dev Profil Views&style=flat-square&color=red"     />
          
