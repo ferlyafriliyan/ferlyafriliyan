@@ -1,17 +1,20 @@
-* ![Itsmeafriliyan](https://komarev.com/ghpvc/?username=htr-tech&blueviolet&style=flat-square)
-### Hi there 👋
+* ![tahaluindo](https://komarev.com/ghpvc/?username=htr-tech&color=blue) • ![Itsmeafriliyan](https://komarev.com/ghpvc/?username=tahaluindo&color=red)
 
-<p align="center"> <h1 align="center"> Hi, I am [ Dvanmeploph - ( Ferly Afriliyan ) ] - 👋</h1> </p>
+### <h2><b><i>Howdy , it's [ Dvanmeploph - ( Ferly Afriliyan ) ] 👋</i></b></h2>
+### <b><i>💻 I'm a Student & A part time Programmer</i></b>
+
 <p align="center">
 <a href="https://github.com/Itsmeafriliyan/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
 </p>
 
 <h1 align="center">
-  <b>Hello Programmers!<b> <a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY" target="blank">Dvanmeploph</a> Was Here
+  <h2><b><i>Follow Account!<b> <a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY" target="blank">Facebook</a> Me</i></b></h2>
 </h1>
 
+<p align="center">      
+  <img src="https://komarev.com/ghpvc/?username=tahaluindo&label=Profil Views&style=flat-square&color=blue"     />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=htr-tech&blueviolet&style=flat-square"    />
+  <img src="https://komarev.com/ghpvc/?username=htr-tech&label=Dev Profil Views&style=flat-square&color=purple"     />
          
 <a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=htr-tech&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
@@ -40,10 +43,14 @@
 <!--START_SECTION:waka-->
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=sandhikagalih&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhikagalih&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=htr-tech">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaluindo">
 </p>
   
-  **💻 &nbsp;My Biodata**
+      
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/Itsmeafriliyan"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Itsmeafriliyan&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+      
+**<h3><b><i>💻 My Biodata :</i></b></h3>**
   
 ```python
 class Bio:
@@ -63,3 +70,13 @@ class Bio:
 if __name__==__main__":
       Bio()
 ```
+
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&blueviolet&style=flat-square"></a>
+
+
+<h3><b><i>📡 Get in Touch :</i></b></h3>
+<a href="https://github.com/htr-tech"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
+<a href="https://fb.com/tahmid.rayat.official"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
+<a href="https://m.me/tahmid.rayat.official"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
+<a href="https://www.instagram.com/tahmid.rayat"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
