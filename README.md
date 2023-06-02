@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <p align="center">      
   <img src="https://komarev.com/ghpvc/?username=tahaluindo&label=Profil Views&style=flat-square&color=blue"     />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Itsmeafriliyan&label=Dev Profil Views&style=flat-square&color=red"     />
+  <img src="https://komarev.com/ghpvc/?username=htr-tech&label=Dev Profil Views&style=flat-square&color=purple"     />
          
-<a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=sandhikagalih&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhikagalih&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=htr-tech&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 </p>
 <p align='center'>
