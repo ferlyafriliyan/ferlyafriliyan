@@ -1,4 +1,4 @@
-* ![tahaluindo](https://komarev.com/ghpvc/?username=htr-tech&color=blue) • ![Itsmeafriliyan](https://komarev.com/ghpvc/?username=tahaluindo&color=red)
+* • ![Itsmeafriliyan](https://komarev.com/ghpvc/?username=tahaluindo&blueviolet&style=flat-square)
 
 ### <h2><b><i>Howdy , it's [ Dvanmeploph - ( Ferly Afriliyan ) ] 👋</i></b></h2>
 ### <b><i>💻 I'm a Student & A part time Programmer</i></b>
@@ -49,34 +49,12 @@
       
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Itsmeafriliyan"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Itsmeafriliyan&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-      
-**<h3><b><i>💻 My Biodata :</i></b></h3>**
-  
-```python
-class Bio:
-     def __init__(self):
-          self.data()
-     def data(self):
-          Biodata = {
-           Full Name = " [ Dvanmeploph - ( Ferly Afriliyan ) ] - ",
-           Nick Name = "Dvanmeploph",
-           City = "Indramayu",
-           Province = "Jawa Barat",
-           Country = "Indonesia",
-           Age = "17 years",
-           Birthday = "04/04/20xx"
-          } 
-          print (Biodata)
-if __name__==__main__":
-      Bio()
-```
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&blueviolet&style=flat-square"></a>
+<a href="https://github.com/tahaluindo"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=tahaluindo&blueviolet&style=flat-square"></a>
 
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/htr-tech"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/tahmid.rayat.official"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://m.me/tahmid.rayat.official"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://www.instagram.com/tahmid.rayat"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+<a href="https://github.com/Itsmeafriliyan"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
+<a href="https://fb.com/Denventa.Xayonara.Team.UnlimitedARMY"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
+<a href="https://www.instagram.com/afriliyanferlly_shishigami"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
