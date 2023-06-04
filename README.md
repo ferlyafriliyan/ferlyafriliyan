@@ -1,4 +1,4 @@
-* • ![Itsmeafriliyan](https://komarev.com/ghpvc/?username=tahaluindo&blueviolet&style=flat-square)
+* • ![Itsmeafriliyan](https://komarev.com/ghpvc/?username=htr-tech&blueviolet&style=flat-square)
 
 ### <h2><b><i>Howdy , it's [ Dvanmeploph - ( Ferly Afriliyan ) ] 👋</i></b></h2>
 ### <b><i>💻 I'm a Student & A part time Programmer</i></b>
@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">      
-  <img src="https://komarev.com/ghpvc/?username=tahaluindo&label=Profil Views&style=flat-square&color=blue"     />
+  <img src="https://komarev.com/ghpvc/?username=htr-tech&label=Profil Views&style=flat-square&color=blue"     />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=htr-tech&label=Dev Profil Views&style=flat-square&color=purple"     />
          
@@ -48,7 +48,7 @@
   
       
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Itsmeafriliyan"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Itsmeafriliyan&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Itsmeafriliyan&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/tahaluindo"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=tahaluindo&blueviolet&style=flat-square"></a>
