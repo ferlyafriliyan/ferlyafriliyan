@@ -1,4 +1,4 @@
-* • ![Itsmeafriliyan](https://komarev.com/ghpvc/?username=htr-tech&blueviolet&style=flat-square)
+* • ![Itsmeafriliyan](https://komarev.com/ghpvc/?username=tahaluindo&blueviolet&style=flat-square)
 
 ### <h2><b><i>Howdy , it's [ Dvanmeploph - ( Ferly Afriliyan ) ] 👋</i></b></h2>
 ### <b><i>💻 I'm a Student & A part time Programmer</i></b>
