@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <h2><b><i>Follow Account!<b> <a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY" target="blank">Facebook</a> Me</i></b></h2>
+  <h2><b><i>Follow Account!<b> <a href="https://www.facebook.com/freya.xyz" target="blank">Facebook</a> Me</i></b></h2>
 </h1>
 
 <p align="center">      
@@ -16,11 +16,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=htr-tech&label=Dev Profil Views&style=flat-square&color=purple"     />
          
-<a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=htr-tech&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.facebook.com/freya.xyz"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=htr-tech&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 </p>
 <p align='center'>
-   <a href="https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY"><img height="100" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
+   <a href="https://www.facebook.com/freya.xyz"><img height="100" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
 <p align='center'>
       
 - Languages: &nbsp;
@@ -56,5 +56,5 @@
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/Itsmeafriliyan"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/Denventa.Xayonara.Team.UnlimitedARMY"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
+<a href="https://fb.com/freya.xyz"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
 <a href="https://www.instagram.com/afriliyanferlly_shishigami"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
