@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dvanmeploph Itsmeafriliyan</title>
+  <link rel="icon" href="My-Profile.jpg">
+  <style>
+    /* Code CSS */
+    .profile {
+      width: 200%;
+      max-width: 800px;
+      background: url("Background.jpg") no-repeat center center fixed;
+      background-size: 100% 100%;
+    }
+    
+    .welcome-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      color: #fff;
+      font-size: 25px;
+      margin-bottom: 20px;
+    }
+    
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    
+    .profile img {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 10px;
+    }
+    
+    .profile h2 {
+      font-size: 34px;
+      margin-bottom: 10px;
+    }
+    
+    .profile p {
+      margin-bottom: 5px;
+    }
+    
+    .profile ul {
+      list-style: none;
+      padding: 0;
+      margin: 10px 0;
+    }
+    
+    .profile ul li {
+      margin-bottom: 5px;
+    }
+    
+    .profile a {
+      color: #333;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      font-weight: bold;
+      text-decoration: underline;
+    }
+    
+    .profile a:hover {
+      text-decoration: none;
+    }
+    
+    .profile a i {
+      margin-right: 5px;
+    }
+    
+    .profile .icon-wrapper {
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      margin-right: 5px;
+      text-align: center;
+      border-radius: 50%;
+    }
+    
+    .profile a .facebook-icon {
+      background-color: #4267B2;
+      color: #fff;
+      width: 20px;
+      height: 20px;
+      margin-right: 5px;
+    }
+    
+    .profile a .instagram-icon {
+      background-color: #C13584;
+      color: #fff;
+      width: 20px;
+      height: 20px;
+      margin-right: 5px;
+    }
+    
+    .profile a .whatsapp-icon {
+      background-color: #25D366;
+      color: #fff;
+      width: 20px;
+      height: 20px;
+      margin-right: 5px;
+    }
+    
+    .profile a .github-icon {
+      background-color: #333;
+      color: #fff;
+      width: 20px;
+      height: 20px;
+      margin-right: 5px;
+    }
+    
+    footer {
+      margin-top: 20px;
+      color: #777;
+      font-size: 14px;
+    }
+    
+    .hamburger {
+      width: 30px;
+      height: 30px;
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      cursor: pointer;
+      z-index: 999;
+    }
+    
+    .hamburger .line {
+      width: 100%;
+      height: 2px;
+      background-color: #333;
+      margin: 6px 0;
+      transition: all 0.3s ease;
+    }
+    
+    .container {
+      position: relative;
+    }
+    
+    .links {
+      display: none;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      position: absolute;
+      top: 80px;
+      left: 20px;
+      background-color: #fff;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      z-index: 998;
+    }
+    
+    .links.show {
+      display: block;
+    }
+    
+    .links li {
+      margin: 10px;
+    }
+    
+    .links a {
+      text-decoration: none;
+      color: #333;
+    }
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="profile">
+      <div class="hamburger" onclick="toggleMenu()">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
+      <img src="My-Profile.jpg" alt="Profile Picture">
+      <h2>Freya Jayawardana Adityaningsih</h2>
+      <p>My Youtube Channel</p>
+      <p><a href="https://www.youtube.com/@DvanmeplophIFA" target="_blank" class="bt btn btn-primary btn-sm"><i
+            class="fab fa-youtube youtube-icon"></i>YouTube Channel</a></p>
+      <ul class="links">
+        <div class="mt-4 mb-4 text-center">
+          <h1>Haters Make Me Famous</h1>
+        </div>
+        <li><a href="https://FerlyXyn.github.io/" target="_blank" class="bt btn btn-primary btn-sm"><i
+              class="fab fa-globe portfolio-icon"></i>Personal Portfolio</a></li>
+        <li><a href="https://www.facebook.com/freya.xyz" target="_blank" class="bt btn btn-primary btn-sm"><span
+              class="icon-wrapper facebook"><i class="fab fa-facebook-f"></i></span>Facebook</a></li>
+        <li><a href="https://www.instagram.com/sifaaulia4568" target="_blank"
+            class="bt btn btn-danger btn-sm"><span class="icon-wrapper instagram"><i
+                class="fab fa-instagram"></i></span>Instagram</a></li>
+        <li><a href="https://wa.me/6285603036683" target="_blank" class="bt btn btn-success btn-sm"><span
+              class="icon-wrapper whatsapp"><i class="fab fa-whatsapp"></i></span>WhatsApp</a></li>
+        <li><a href="https://github.com/FerlyXyn" target="_blank" class="bt btn btn-dark btn-sm"><span
+              class="icon-wrapper github"><i class="fab fa-github"></i></span>Github</a></li>
+      </ul>
+      <footer class="mt-4 text-center text-white">
+        <p>&copy; <script>
+            document.write(new Date().getFullYear());
+          </script> - Developer By Ferly Afriliyan</p>
+      </footer>
+    </div>
+  </div>
+
+  <script>
+    // Code JavaScript
+    const hamburger = document.querySelector('.hamburger');
+    const links = document.querySelector('.links');
+    const linksList = document.querySelectorAll('.links li a');
+    
+    hamburger.addEventListener('click', function () {
+      links.classList.toggle('show');
+    });
+    
+    linksList.forEach(function (link) {
+      link.addEventListener('click', function () {
+        links.classList.remove('show');
+      });
+    });
+  </script>
+</body>
+
+</html>
