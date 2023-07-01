@@ -4,7 +4,7 @@
 ### <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <p align="center">
-<a href="https://github.com/FerlyXyn/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
+<a href="https://github.com/Avs4x/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
 </p>
 
 <h1 align="center">
