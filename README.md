@@ -55,6 +55,6 @@
 
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/FerlyXyn"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
+<a href="https://github.com/Avs4x"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
 <a href="https://fb.com/freya.xyz"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
 <a href="https://www.instagram.com/afriliyanferlly_shishigami"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
