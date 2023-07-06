@@ -1,9 +1,8 @@
-- * Website* :
-- **https://ferlyafriliyan.vercel.app/**
+- *Website* :
+- *https://ferlyafriliyan.vercel.app/*
 
 
-
-* • ![FerlyXyn](https://komarev.com/ghpvc/?username=tahaluindo&blueviolet&style=flat-square)
+* • ![ferlyafriliyan](https://komarev.com/ghpvc/?username=tahaluindo&blueviolet&style=flat-square)
 
 ### <h2><b><i>Howdy , it's [ Dvanmeploph - ( Ferly Afriliyan ) ] 👋</i></b></h2>
 ### <b><i>💻 I'm a Student & A part time Programmer</i></b>
