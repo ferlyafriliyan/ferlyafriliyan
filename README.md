@@ -16,11 +16,11 @@
 </h1>
 
 <p align="center">      
-  <img src="https://komarev.com/ghpvc/?username=htr-tech&label=Profil Views&style=flat-square&color=blue"     />
+  <img src="https://komarev.com/ghpvc/?username=tahaluindo&label=Profil Views&style=flat-square&color=blue"     />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=htr-tech&label=Dev Profil Views&style=flat-square&color=purple"     />
+  <img src="https://komarev.com/ghpvc/?username=tahaluindo&label=Dev Profil Views&style=flat-square&color=purple"     />
          
-<a href="https://www.facebook.com/freya.xyz"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=htr-tech&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.facebook.com/freya.xyz"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ferlyafriliyan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferlyafriliyan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 </p>
 <p align='center'>
@@ -45,7 +45,7 @@
 </p>      
     
 <!--START_SECTION:waka-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=sandhikagalih&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhikagalih&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=ferlyafriliyan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferlyafriliyan&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaluindo">
 </p>
