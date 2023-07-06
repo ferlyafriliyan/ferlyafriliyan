@@ -1,4 +1,4 @@
-- *Hasil Website* :
+- * Website* :
 - **https://ferlyafriliyan.vercel.app/**
 
 
