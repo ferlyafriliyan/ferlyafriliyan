@@ -53,7 +53,7 @@
 <a href="https://github.com/ferlyafriliyan"><img width=550 src="https://github-profile-trophy.vercel.app/?username=FerlyXyn&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/Dumai-991"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=tahaluindo&blueviolet&style=flat-square"></a>
+<a href="https://github.com/tahaluindo"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=tahaluindo&blueviolet&style=flat-square"></a>
 
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
