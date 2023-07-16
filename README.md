@@ -2,7 +2,7 @@
 - *https://ferlyafriliyan.vercel.app/*
 
 
-* • ![ferlyafriliyan](https://komarev.com/ghpvc/?username=Dumai-991&blueviolet&style=flat-square)
+* • ![ferlyafriliyan](https://komarev.com/ghpvc/?username=ferlyafriliyan&blueviolet&style=flat-square)
 
 ### <h2><b><i>Howdy , it's [ Dvanmeploph - ( Ferly Afriliyan ) ] 👋</i></b></h2>
 ### <b><i>💻 I'm a Student & A part time Programmer</i></b>
@@ -16,9 +16,9 @@
 </h1>
 
 <p align="center">      
-  <img src="https://komarev.com/ghpvc/?username=Dumai-991&label=Profil Views&style=flat-square&color=blue"     />    
+  <img src="https://komarev.com/ghpvc/?username=ferlyafriliyan&label=Profil Views&style=flat-square&color=blue"     />    
 
-<a href="https://www.facebook.com/freya.xyz"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=htr-tech&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.facebook.com/freya.xyz"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ferlyafriliyan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferlyafriliyan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 </p>
 <p align='center'>
@@ -43,17 +43,17 @@
 </p>      
     
 <!--START_SECTION:waka-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=htr-tech&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=ferlyafriliyan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferlyafriliyan&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaluindo">
 </p>
   
       
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/ferlyafriliyan"><img width=550 src="https://github-profile-trophy.vercel.app/?username=FerlyXyn&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/ferlyafriliyan"><img width=550 src="https://github-profile-trophy.vercel.app/?username=ferlyafriliyan&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/tahaluindo"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=tahaluindo&blueviolet&style=flat-square"></a>
+<a href="https://github.com/ferlyafriliyan"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ferlyafriliyan&blueviolet&style=flat-square"></a>
 
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
