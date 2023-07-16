@@ -22,7 +22,7 @@
 
 </p>
 <p align='center'>
-   <a href="https://www.facebook.com/freya.xyz"><img height="100" src="https://raw.githubusercontent.com/ferlyafriliyan/ferlyafriliyan/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
+   <a href="https://www.facebook.com/freya.xyz"><img height="100" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
 <p align='center'>
       
 - Languages: &nbsp;
