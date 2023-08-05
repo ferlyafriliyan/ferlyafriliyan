@@ -1,6 +1,6 @@
 ![readmebox](https://github.com/ferlyafriliyan/ferlyafriliyan/assets/122451961/75d33bba-075f-4a36-94de-726861b09797)
 
-* • ![ferlyafriliyan](https://komarev.com/ghpvc/?username=ferlyafriliyan&blueviolet&style=flat-square)
+* • ![tahaluindo](https://komarev.com/ghpvc/?username=tahaluindo&blueviolet&style=flat-square)
 
 ### <h2><b><i>Howdy , it's [ Dvanmeploph - ( Ferly Afriliyan ) ] 👋</i></b></h2>
 ### <b><i>💻 I'm a Student & A part time Programmer</i></b>
@@ -48,7 +48,7 @@
   
       
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/ferlyafriliyan"><img width=550 src="https://github-profile-trophy.vercel.app/?username=ferlyafriliyan&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/tahaluindo"><img width=550 src="https://github-profile-trophy.vercel.app/?username=tahaluindo&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/ferlyafriliyan"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ferlyafriliyan&blueviolet&style=flat-square"></a>
