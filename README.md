@@ -51,7 +51,7 @@
 <a href="https://github.com/tahaluindo"><img width=550 src="https://github-profile-trophy.vercel.app/?username=tahaluindo&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/ferlyafriliyan"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ferlyafriliyan&blueviolet&style=flat-square"></a>
+<a href="https://github.com/tahaluindo"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ferlyafriliyan&blueviolet&style=flat-square"></a>
 
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
