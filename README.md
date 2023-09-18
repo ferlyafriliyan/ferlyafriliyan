@@ -2,13 +2,13 @@
 
 # Howdy, it's [Dvanmeploph - (Ferly Afriliyan)] 👋
 
-💻 I'm a Student & A part-time Programmer
+- ## *💻 I'm a Student & A part-time Programmer*
 
 <p align="center">
   <a href="https://github.com/ferlyafriliyan/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
 </p>
 
-## Follow Me!
+- ## *Follow Me!*
 
 <p align="center">
   <a href="https://www.facebook.com/freya.xyz"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
