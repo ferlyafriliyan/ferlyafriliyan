@@ -16,29 +16,23 @@
 <p align="center">      
   <img src="https://komarev.com/ghpvc/?username=ferlyafriliyan&label=Profil Views&style=flat-square&color=blue"     />    
 
-<a href="https://www.facebook.com/freya.xyz"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ferlyafriliyan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferlyafriliyan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.facebook.com/freya.xyz"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ferlyafriliyan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+
+<!-- wi*quL3fcV -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferlyafriliyan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 </p>
-<p align='center'>
-   <a href="https://www.facebook.com/freya.xyz"><img height="100" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
-<p align='center'>
-      
-- Languages: &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007ACC)
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=007ACC)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=1572B6)
-  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor=007ACC)
-</p>      
-:page_with_curl: I'm currently learning:
-- Python
-- PHP
-- Golang
-- HTML
-- JAVA
-- C++
-- Javascript
-</p>      
+<!-- Languages -->
+<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferlyafriliyn &layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
+
+```python
+class Languages:
+  def __init__(self):
+    self.python = "Python 🐍"
+    self.bash = "Bash 🔩"
+    self.golang = "Golang (Learning)"
+    self.future = "..."
+```
     
 <!--START_SECTION:waka-->
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=ferlyafriliyan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferlyafriliyan&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
