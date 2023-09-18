@@ -22,7 +22,7 @@
 
 <!--START_SECTION:waka-->
 <p align="center" height='130px'>
-  <img src="https://github-readme-stats.vercel.app/api?username=ferlyafriliyan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ferlyafriliyan&show_icons=true&hide_title=true&include_all_commits=true&line_height=20&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferlyafriliyan&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="Top Languages"/>
 </p>
 
@@ -34,8 +34,8 @@
 
 ## 📡 Get in Touch :
 
-![Facebook](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg)
-![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg)
-![WhatsApp](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg)
-![YouTube](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg)
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="24" height="24">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="24" height="24">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" height="24">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="24" height="24">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="24" height="24">
