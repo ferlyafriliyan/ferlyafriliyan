@@ -1,15 +1,16 @@
 ![readmebox](https://github.com/ferlyafriliyan/ferlyafriliyan/assets/122451961/75d33bba-075f-4a36-94de-726861b09797)
-<br>
-## Howdy, it's <a href="https://saweria.co/ferlyafriliyan"> *Ferly Afriliyan* 👋<a>
 
 
-- ## 💻 I'm a Student & A part-time Programmer
+### Howdy, it's <a href="https://saweria.co/ferlyafriliyan"> *Ferly Afriliyan* 👋<a>
+
+
+- ## *💻 I'm a Student & A part-time Programmer*
 
 <p align="center">
   <a href="https://github.com/ferlyafriliyan/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
 </p>
 
-- ### Follow Me!
+- ### *Follow Me!*
 
 <p align="center">
   <a href="https://www.facebook.com/freya.xyz"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
