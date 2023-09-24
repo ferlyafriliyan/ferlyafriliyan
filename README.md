@@ -1,6 +1,6 @@
 ![readmebox](https://github.com/ferlyafriliyan/ferlyafriliyan/assets/122451961/75d33bba-075f-4a36-94de-726861b09797)
 <br>
-## Howdy, it's [ - (Ferly Afriliyan) - ] 👋
+## Howdy, it's <a href="https://saweria.co/ferlyafriliyan"> *Ferly Afriliyan* 👋<a>
 
 
 - ## 💻 I'm a Student & A part-time Programmer
